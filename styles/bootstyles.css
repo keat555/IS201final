@@ -1,0 +1,17 @@
+.undertext { text-align: center;
+    border-style: solid;
+    font-size: 20px;
+}
+.headers {
+    border-color: black;
+    font-size: 30px
+}
+
+.tableaulinks {
+    text-align: center;
+}
+
+.footer {
+    padding-left: 600px;
+}
+
